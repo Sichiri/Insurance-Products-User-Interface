@@ -420,6 +420,4 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ---
 
-**Due Date**: End of day, July 14, 2026
-
 For any questions or issues, please open a GitHub issue.
